@@ -1,5 +1,6 @@
 # sample
 Sample repo to get started 
+UPDATED: 18 May 2017
 
 ### Topics include:
 - Handling HTTP requests with Node.js and Express
